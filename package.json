@@ -11,7 +11,7 @@
     "admin-lte": "^2.3.11",
     "axios": "^0.15.3",
     "bootstrap-less": "3.3.7",
-    "bootstrap-sass": "3.3.7",
+    "bootstrap-sass": "3.4.1",
     "cross-env": "^3.2.3",
     "font-awesome": "^4.7.0",
     "icheck": "^1.0.2",
