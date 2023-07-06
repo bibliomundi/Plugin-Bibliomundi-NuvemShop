@@ -13,7 +13,7 @@
         "laravel/tinker": "~1.0",
         "laravelcollective/html": "^5.4",
         "magrao/bibliomundi-onix-parser": "dev-master",
-        "rap2hpoutre/laravel-log-viewer": "^0.8.1",
+        "rap2hpoutre/laravel-log-viewer": "^0.13.0",
         "tiendanube/php-sdk": "^1.1",
         "tymon/jwt-auth": "^0.5.10",
         "unisharp/laravel-ckeditor": "^4.6"
